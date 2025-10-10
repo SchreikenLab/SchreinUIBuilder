@@ -92,7 +92,7 @@
 | **Réseau** | TCP, UDP, WebSocket |
 | **Série** | RS-232, RS-485, USB-CDC |
 
---
+---
 
 ### 📘 Libraries Arduino
 
@@ -107,7 +107,7 @@
 ### 🌍 Communauté
 
 - **Tutoriels vidéo** : [Youtube Channel](https://www.youtube.com/@SchreinUIBuilder/)
-- **Page Facebook** : [aceBook Page](https://web.facebook.com/SchreinUIBuilder/)
+- **Page Facebook** : [FaceBook Page](https://web.facebook.com/SchreinUIBuilder/)
 - **Forum** : [Forum](https://schreiken.tech/forum/))
 
 ---
