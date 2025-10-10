@@ -23,12 +23,10 @@
 ### 🔌 Connectivité avancée
 - **TCP/UDP (Client & Serveur)**
 - **Ports série (COM)** avec configuration avancée
-- **Protocoles HTTP/REST**
 - **Cloud Schreiken**
 
 ### 🚀 Déploiement professionnel
 - Génération d’**exécutables autonomes**
-- **Installateurs Windows** personnalisables
 - Gestion des **licences intégrée**
 - **Mises à jour automatiques**
 
@@ -42,13 +40,6 @@
 3. Suivez l’assistant d’installation
 4. **Aucune licence d'activation**
 
-### 🏢 Version Entreprise
-- Déploiement silencieux :  
-  ```bash
-  SchreinUIBuilder-Setup.exe /S
-
-## 🏢 Configuration via GPO pour environnements corporate
-
 ---
 
 ## 🖥️ Configuration système
@@ -61,7 +52,7 @@
 | **Espace disque** | 500 MB | 1 GB+ |
 | **Réseau** | Connexion standard | Ethernet industriel |
 
-**Prérequis :** .NET Framework 4.8 ou supérieur
+**Prérequis :** .NET Framework 4.5.0 ou supérieur
 
 ---
 
@@ -88,9 +79,10 @@
 
 | **Catégorie** | **Protocoles** |
 |----------------|----------------|
-| **IoT** | HTTP/HTTPS, WebSockets |
+| **IoT** | HTTP/HTTPS, WebSockets, SSE |
 | **Réseau** | TCP, UDP, WebSocket |
-| **Série** | RS-232, RS-485, USB-CDC |
+| **Série** | RS-232 |
+|**Bluetooth**| Bluetooth Classic|
 
 ---
 
