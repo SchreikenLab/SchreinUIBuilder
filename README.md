@@ -94,13 +94,18 @@
 
 ---
 
-## 📚 Ressources (Doc
+## 📚 Ressources
 
-- **Documentation**/ Librairie SchreinSerialParser : [Communication Série](https://schreiken.tech/schreinserialpaser/)
-- **Documentation :** [Communication Bluetooth](https://schreiken.tech/schreinbluetoothparser/)
-- **Documentation :** [Communication WiFi](https://schreiken.tech/schreinwifiparser//)
-- **Documentation :** [Communication Ethernet](https://schreiken.tech/schreinethernetparser/)
-- **Documentation :** [Communication Cloud](https://schreiken.tech/schreincloudparser/) 
+### 📚 Libraries Arduino
+
+- **SchreinSerialParser** : [Communication Série](https://schreiken.tech/schreinserialpaser/)
+- **SchreinBluetoothParser** : [Communication Bluetooth](https://schreiken.tech/schreinbluetoothparser/)
+- **SchreinWiFiParser** : [Communication WiFi](https://schreiken.tech/schreinwifiparser//)
+- **SchreinEthernetParser** : [Communication Ethernet](https://schreiken.tech/schreinethernetparser/)
+- **SchreinCloudParser** : [Communication Cloud](https://schreiken.tech/schreincloudparser/)
+
+### 📚 Libraries Arduino
+
 - **Tutoriels vidéo :** [Chaîne YouTube](https://youtube.com)  
 - **Communauté :** [community.schreiken.tech](https://community.schreiken.tech)  
 - **Portail client :** [tickets.schreiken.tech](https://tickets.schreiken.tech)
