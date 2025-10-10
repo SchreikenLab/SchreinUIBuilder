@@ -1,6 +1,6 @@
-# 🧱 Schrein UI Builder – Version Commerciale
+# 🧱 Schrein UI Builder – Version Complete
 
-**Développé par [Schreiken Technologies GmbH](https://schreiken.tech) – Allemagne**
+**Développé par [Schreiken Technologies SARL](https://schreiken.tech) – Cameroun**
 
 ---
 
@@ -8,7 +8,7 @@
 
 **Schrein UI Builder** est une solution **no-code / low-code** professionnelle permettant de créer des **interfaces de monitoring et de pilotage** pour vos systèmes **IoT industriels** et **objets connectés**.
 
-> Connectivité universelle : Ethernet, WiFi, Ports Série, Cloud et protocoles industriels.
+> Connectivité universelle : Ethernet, WiFi, Ports Série et Cloud.
 
 ---
 
@@ -23,9 +23,8 @@
 ### 🔌 Connectivité avancée
 - **TCP/UDP (Client & Serveur)**
 - **Ports série (COM)** avec configuration avancée
-- **Protocoles MQTT, HTTP/REST**
-- **Cloud Schreiken** et autres plateformes IoT
-- **Bac à sable (sandbox)** pour tests sécurisés
+- **Protocoles HTTP/REST**
+- **Cloud Schreiken**
 
 ### 🚀 Déploiement professionnel
 - Génération d’**exécutables autonomes**
@@ -41,7 +40,7 @@
 1. Téléchargez l’installateur depuis : [schreiken.tech/download](https://schreiken.tech/download)
 2. Exécutez **`SchreinUIBuilder-Setup.exe`**
 3. Suivez l’assistant d’installation
-4. Activez votre **licence** au premier lancement
+4. **Aucune licence d'activation**
 
 ### 🏢 Version Entreprise
 - Déploiement silencieux :  
@@ -89,20 +88,9 @@
 
 | **Catégorie** | **Protocoles** |
 |----------------|----------------|
-| **Industriel** | Modbus TCP/RTU, OPC UA, Siemens S7 |
-| **IoT** | MQTT, HTTP/HTTPS, WebSockets |
+| **IoT** | HTTP/HTTPS, WebSockets |
 | **Réseau** | TCP, UDP, WebSocket |
 | **Série** | RS-232, RS-485, USB-CDC |
-
----
-
-## 🛠️ Support technique
-
-| **Niveau** | **Disponibilité** | **Contact** |
-|-------------|------------------|--------------|
-| **Standard** | 9h–18h (CET) | support@schreiken.tech |
-| **Professional** | 8h–20h (CET) | pro-support@schreiken.tech |
-| **Enterprise** | 24/7 | emergency@schreiken.tech |
 
 ---
 
@@ -127,7 +115,7 @@
 - Politique de confidentialité : [schreiken.tech/privacy](https://schreiken.tech/privacy)  
 - Conditions d’utilisation : [schreiken.tech/terms](https://schreiken.tech/terms)
 
-> © 2025 Schreiken Technologies GmbH. Tous droits réservés.
+> © 2025 Schreiken Technologies SARL. Tous droits réservés.
 
 ---
 
@@ -153,7 +141,7 @@
 
 ## 📞 Contact
 
-**Commercial :** sales@schreiken.tech  
-**Téléphone :** +49 XXX XXXX XXX  
+**Support Technique :** support@schreiken.tech  
+**WhatsApp :** +237 671 959 237  
 **Site officiel :** [https://schreiken.tech](https://schreiken.tech)
   
