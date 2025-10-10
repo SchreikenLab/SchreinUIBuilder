@@ -42,7 +42,7 @@ Dans un environnement où l’**automatisation, l’IoT et les systèmes embarqu
 
 ---
 
-## 🖥️ Configuration système
+## 🔧 Configuration système
 
 | **Composant** | **Configuration Minimum** |
 |----------------|-------------|
@@ -66,7 +66,7 @@ Dans un environnement où l’**automatisation, l’IoT et les systèmes embarqu
 
 ---
 
-## 🧰 Exemples d’applications
+## 🔹 Exemples d’applications
 
 - Tableaux de bord de **supervision industrielle**  
 - Interfaces de **contrôle de machines**  
@@ -83,6 +83,10 @@ Dans un environnement où l’**automatisation, l’IoT et les systèmes embarqu
 - **SchreinEthernetParser** : [Communication Ethernet](https://schreiken.tech/schreinethernetparser/)
 - **SchreinCloudParser** : [Communication Cloud](https://schreiken.tech/schreincloudparser/)
 
+---
+### 🚀 Tutoriels(Créer un projet avec Schrein UI Builder)
+
+- **Formation** : [Schrein UI Builder](https://schreiken.tech/category/schreinuibuilder/)
 ---
 
 ### 🌍 Communauté
