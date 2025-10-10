@@ -1,4 +1,4 @@
-# 🧱 Schrein UI Builder – Version Communautaire
+# 🔸 Schrein UI Builder – Version Communautaire
 
 **Développé par [Schreiken Technologies SARL](https://schreiken.tech)**
 
@@ -34,7 +34,7 @@ Dans un environnement où l’**automatisation, l’IoT et les systèmes embarqu
 ---
 ## 📦 Installation
 
-### 🧩 Version Standard
+### 💡 Version Standard
 1. Téléchargez l’installateur depuis : [schreiken.tech/download](https://schreiken.tech/download)
 2. Exécutez **`SchreinUIBuilder-Setup.exe`**
 3. Suivez l’assistant d’installation
