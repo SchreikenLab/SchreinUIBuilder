@@ -27,7 +27,7 @@ Dans un environnement où l’**automatisation, l’IoT et les systèmes embarqu
 - **Makers et développeurs** cherchant un outil rapide et efficace pour concevoir des interfaces personnalisées
 
 ---
-**WorkSpace**
+## 👉 **WorkSpace**
 
 ![Schéma BLE](images/Part.png)
 
@@ -42,11 +42,11 @@ Dans un environnement où l’**automatisation, l’IoT et les systèmes embarqu
 
 ---
 
-## 🔧 Configuration système
+## ⚙️ Configuration système
 
 | **Composant** | **Configuration Minimum** |
 |----------------|-------------|
-| **OS** | Windows 10 (64-bit) |
+| **OS** | Windows 8.1 (64-bit) |
 | **Processeur** | Dual-core 1.2 GHz |
 | **RAM** | 4 GB |
 | **Espace disque** | 500 MB |
@@ -75,7 +75,7 @@ Dans un environnement où l’**automatisation, l’IoT et les systèmes embarqu
 
 ---
 
-### 📘 Libraries Arduino
+## 📘 Libraries Arduino
 
 - **SchreinSerialParser** : [Communication Série](https://schreiken.tech/schreinserialpaser/)
 - **SchreinBluetoothParser** : [Communication Bluetooth](https://schreiken.tech/schreinbluetoothparser/)
@@ -84,12 +84,12 @@ Dans un environnement où l’**automatisation, l’IoT et les systèmes embarqu
 - **SchreinCloudParser** : [Communication Cloud](https://schreiken.tech/schreincloudparser/)
 
 ---
-### 🚀 Tutoriels
+## 🚀 Tutoriels
 
 - **Getting Started** : [Schrein UI Builder](https://schreiken.tech/category/schreinuibuilder/)
 ---
 
-### 🌍 Communauté
+## 🌍 Communauté
 
 - **Tutoriels vidéo** : [Youtube Channel](https://www.youtube.com/@SchreinUIBuilder/)
 - **Page Facebook** : [FaceBook Page](https://web.facebook.com/SchreinUIBuilder/)
