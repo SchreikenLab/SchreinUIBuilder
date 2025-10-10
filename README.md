@@ -1,4 +1,4 @@
-# 🧱 Schrein UI Builder – Version Commuunautaire
+# 🧱 Schrein UI Builder – Version Communautaire
 
 **Développé par [Schreiken Technologies SARL](https://schreiken.tech)**
 
