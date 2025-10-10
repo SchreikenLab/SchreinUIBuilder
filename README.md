@@ -16,15 +16,15 @@ Dans un environnement où l’**automatisation, l’IoT et les systèmes embarqu
 
 - **Ne nécessite aucune programmation (No-Code)**.
 - **Simplifie la conception** d’interfaces UI grâce à un système de **glisser-déposer**
-- **✔ Permet l'acquisition et le contrôle des données en temps réel** via communication **Série (UART), Bluetooth, WiFi, Ethernet et Cloud**.<br>
- ✔ **S’adapte à divers domaines** : automatisation industrielle, mécatronique, agriculture connectée, domotique, etc.<br>
- ✔ Génère des applications autonomes, prêtes à être utilisées sur le terrain
+- **Permet l'acquisition et le contrôle des données en temps réel** via communication **Série (UART), Bluetooth, WiFi, Ethernet et Cloud**.
+- **S’adapte à divers domaines** : automatisation industrielle, mécatronique, agriculture connectée, domotique, etc.
+- **Génère des applications autonomes**, prêtes à être utilisées sur le terrain
  
 **À qui s’adresse SchreinUI Builder ?**
 
-•	**Ingénieurs et techniciens** développant des solutions IoT et embarquées<br>
-•	**Étudiants et enseignants** en génie électrique, électronique et mécatronique
-•	**Makers et développeurs** cherchant un outil rapide et efficace pour concevoir des interfaces personnalisées
+- **Ingénieurs et techniciens** développant des solutions IoT et embarquées
+- **Étudiants et enseignants** en génie électrique, électronique et mécatronique
+- **Makers et développeurs** cherchant un outil rapide et efficace pour concevoir des interfaces personnalisées
 
 **Schrein UI Builder** est une solution **no-code / low-code** professionnelle permettant de créer des **interfaces de monitoring et de pilotage** pour vos systèmes **IoT industriels** et **objets connectés**.
 
