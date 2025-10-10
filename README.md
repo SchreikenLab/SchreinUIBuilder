@@ -16,7 +16,7 @@ Dans un environnement où l’**automatisation, l’IoT et les systèmes embarqu
 
 - **Ne nécessite aucune programmation (No-Code)**.
 - **Simplifie la conception** d’interfaces UI grâce à un système de **glisser-déposer**
--✔ **Permet l'acquisition et le contrôle des données en temps réel** via communication **Série (UART), Bluetooth, WiFi, Ethernet et Cloud**.<br>
+- **✔ Permet l'acquisition et le contrôle des données en temps réel** via communication **Série (UART), Bluetooth, WiFi, Ethernet et Cloud**.<br>
  ✔ **S’adapte à divers domaines** : automatisation industrielle, mécatronique, agriculture connectée, domotique, etc.<br>
  ✔ Génère des applications autonomes, prêtes à être utilisées sur le terrain
  
