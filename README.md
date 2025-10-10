@@ -14,10 +14,11 @@
 
 Dans un environnement où l’**automatisation, l’IoT et les systèmes embarqués** jouent un rôle clé, la nécessité d’un outil **flexible et performant** pour visualiser et interagir avec les données devient essentielle. **Schrein UI Builde**r répond à ce besoin en offrant une plateforme qui :
 
-    ✔ **Simplifie la conception** d’interfaces UI grâce à un système de **glisser-déposer**<br>
-    ✔ **Permet l'acquisition et le contrôle des données en temps réel** via communication **Série (UART), Bluetooth, WiFi, Ethernet et Cloud**.<br>
-    ✔ **S’adapte à divers domaines** : automatisation industrielle, mécatronique, agriculture connectée, domotique, etc.<br>
-    ✔ Génère des applications autonomes, prêtes à être utilisées sur le terrain
+-✔**Ne nécessite aucune programmation (No-Code)**
+-✔ **Simplifie la conception** d’interfaces UI grâce à un système de **glisser-déposer**<br>
+-✔ **Permet l'acquisition et le contrôle des données en temps réel** via communication **Série (UART), Bluetooth, WiFi, Ethernet et Cloud**.<br>
+-✔ **S’adapte à divers domaines** : automatisation industrielle, mécatronique, agriculture connectée, domotique, etc.<br>
+-✔ Génère des applications autonomes, prêtes à être utilisées sur le terrain
  
 **À qui s’adresse SchreinUI Builder ?**
 
