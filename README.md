@@ -96,7 +96,7 @@
 
 ## 📚 Ressources
 
-### 📚 Libraries Arduino
+### 📘 Libraries Arduino
 
 - **SchreinSerialParser** : [Communication Série](https://schreiken.tech/schreinserialpaser/)
 - **SchreinBluetoothParser** : [Communication Bluetooth](https://schreiken.tech/schreinbluetoothparser/)
@@ -104,39 +104,15 @@
 - **SchreinEthernetParser** : [Communication Ethernet](https://schreiken.tech/schreinethernetparser/)
 - **SchreinCloudParser** : [Communication Cloud](https://schreiken.tech/schreincloudparser/)
 
-### 📚 Libraries Arduino
+### 📹 Communauté
+
+- **Chaine YouTuber** : [Youtube Channel](https://www.youtube.com/@SchreinUIBuilder/)
+- **Page Facebook** : [aceBook Page](https://web.facebook.com/SchreinUIBuilder/)
+- **Forum** : [Forum](https://schreiken.tech/forum/))
 
 - **Tutoriels vidéo :** [Chaîne YouTube](https://youtube.com)  
 - **Communauté :** [community.schreiken.tech](https://community.schreiken.tech)  
 - **Portail client :** [tickets.schreiken.tech](https://tickets.schreiken.tech)
-
----
-
-### Informations légales
-- Licence commerciale : voir **LICENSE.txt**  
-- Politique de confidentialité : [schreiken.tech/privacy](https://schreiken.tech/privacy)  
-- Conditions d’utilisation : [schreiken.tech/terms](https://schreiken.tech/terms)
-
-> © 2025 Schreiken Technologies SARL. Tous droits réservés.
-
----
-
-## 🔒 Sécurité & Conformité
-
-- Authentification **multi-facteurs**
-- Conformité **RGPD** et normes industrielles
-- Audits de sécurité réguliers
-
----
-
-## 🌟 Témoignages clients
-
-> “Schrein UI Builder a réduit notre temps de développement d’interfaces de 70 %.  
-> Solution indispensable pour nos projets IoT.”  
-> — **Directeur Technique, Automotive Supplier**
-
-> “La facilité d’utilisation et la connectivité étendue en font l’outil parfait pour nos systèmes de supervision.”  
-> — **Ingénieur Automation, Pharma**
 
 ---
 
