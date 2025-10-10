@@ -94,9 +94,9 @@
 
 ---
 
-## 📚 Ressources
+## 📚 Ressources (Doc
 
-- **Documentation/Librairie SchreinSerialParser :** [Communication Série](https://schreiken.tech/schreinserialpaser/)
+- **Documentation**/Librairie SchreinSerialParser : [Communication Série](https://schreiken.tech/schreinserialpaser/)
 - **Documentation :** [Communication Bluetooth](https://schreiken.tech/schreinbluetoothparser/)
 - **Documentation :** [Communication WiFi](https://schreiken.tech/schreinwifiparser//)
 - **Documentation :** [Communication Ethernet](https://schreiken.tech/schreinethernetparser/)
