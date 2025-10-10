@@ -84,9 +84,9 @@ Dans un environnement où l’**automatisation, l’IoT et les systèmes embarqu
 - **SchreinCloudParser** : [Communication Cloud](https://schreiken.tech/schreincloudparser/)
 
 ---
-### 🚀 Tutoriels(Créer un projet avec Schrein UI Builder)
+### 🚀 Tutoriels
 
-- **Formation** : [Schrein UI Builder](https://schreiken.tech/category/schreinuibuilder/)
+- **Getting Started** : [Schrein UI Builder](https://schreiken.tech/category/schreinuibuilder/)
 ---
 
 ### 🌍 Communauté
