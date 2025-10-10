@@ -1,101 +1,49 @@
-Configuration via GPO pour environnements corporate
+# 🧱 Schrein UI Builder – Version Commerciale
 
-🖥️ Configuration système
-Composant	Minimum	Recommandé
-OS	Windows 10 (64-bit)	Windows 11 / Server 2022
-Processeur	Dual-core 2.0 GHz	Quad-core 3.0 GHz
-RAM	4 GB	8 GB+
-Espace disque	500 MB	1 GB+
-Réseau	Connexion standard	Ethernet industriel
+**Développé par [Schreiken Technologies GmbH](https://schreiken.tech) – Allemagne**
 
-Prérequis : .NET Framework 4.8 ou supérieur
+---
 
-🔧 Démarrage rapide
+## 🎯 Présentation
 
-Créer un nouveau projet → Choisissez un template
+**Schrein UI Builder** est une solution **no-code / low-code** professionnelle permettant de créer des **interfaces de monitoring et de pilotage** pour vos systèmes **IoT industriels** et **objets connectés**.
 
-Glisser-déposer vos composants d’interface
+> Connectivité universelle : Ethernet, WiFi, Ports Série, Cloud et protocoles industriels.
 
-Configurer la connexion à votre périphérique
+---
 
-Tester en mode simulation
+## ✨ Fonctionnalités principales
 
-Générer l’exécutable final
+### 🎨 Création d'interfaces
+- Glisser-déposer intuitif — *aucune compétence en programmation requise*  
+- Bibliothèque de composants riches : **boutons, graphiques, jauges, tableaux**
+- Design **responsive** adaptatif pour différents écrans
+- Thèmes personnalisables et **branding d'entreprise**
 
-🧰 Exemples d’applications
+### 🔌 Connectivité avancée
+- **TCP/UDP (Client & Serveur)**
+- **Ports série (COM)** avec configuration avancée
+- **Protocoles MQTT, HTTP/REST**
+- **Cloud Schreiken** et autres plateformes IoT
+- **Bac à sable (sandbox)** pour tests sécurisés
 
-Tableaux de bord de supervision industrielle
+### 🚀 Déploiement professionnel
+- Génération d’**exécutables autonomes**
+- **Installateurs Windows** personnalisables
+- Gestion des **licences intégrée**
+- **Mises à jour automatiques**
 
-Interfaces de contrôle de machines
+---
 
-Monitoring de données temps réel
+## 📦 Installation
 
-Systèmes de télémaintenance
+### 🧩 Version Standard
+1. Téléchargez l’installateur depuis : [schreiken.tech/download](https://schreiken.tech/download)
+2. Exécutez **`SchreinUIBuilder-Setup.exe`**
+3. Suivez l’assistant d’installation
+4. Activez votre **licence** au premier lancement
 
-📊 Protocoles supportés
-Catégorie	Protocoles
-Industriel	Modbus TCP/RTU, OPC UA, Siemens S7
-IoT	MQTT, HTTP/HTTPS, WebSockets
-Réseau	TCP, UDP, WebSocket
-Série	RS-232, RS-485, USB-CDC
-🛠️ Support technique
-Niveau	Disponibilité	Contact
-Standard	9h–18h (CET)	support@schreiken.tech
-
-Professional	8h–20h (CET)	pro-support@schreiken.tech
-
-Enterprise	24/7	emergency@schreiken.tech
-📚 Ressources
-
-Documentation : docs.schreiken.tech
-
-Tutoriels vidéo : Chaîne YouTube
-
-Communauté : community.schreiken.tech
-
-Portail client : tickets.schreiken.tech
-
-⚖️ Licence & Conditions
-Types de licence
-
-Standard : Usage individuel
-
-Professional : Usage commercial étendu
-
-Enterprise : Déploiement illimité
-
-Informations légales
-
-Licence commerciale : voir LICENSE.txt
-
-Politique de confidentialité : schreiken.tech/privacy
-
-Conditions d’utilisation : schreiken.tech/terms
-
-© 2025 Schreiken Technologies GmbH. Tous droits réservés.
-
-🔒 Sécurité & Conformité
-
-Chiffrement des communications TLS/SSL
-
-Authentification multi-facteurs
-
-Conformité RGPD et normes industrielles
-
-Audits de sécurité réguliers
-
-🌟 Témoignages clients
-
-“Schrein UI Builder a réduit notre temps de développement d’interfaces de 70 %.
-Solution indispensable pour nos projets IoT.”
-— Directeur Technique, Automotive Supplier
-
-“La facilité d’utilisation et la connectivité étendue en font l’outil parfait pour nos systèmes de supervision.”
-— Ingénieur Automation, Pharma
-
-📞 Contact
-
-Commercial : sales@schreiken.tech
-
-Téléphone : +49 XXX XXXX XXX
-Site officiel : https://schreiken.tech
+### 🏢 Version Entreprise
+- Déploiement silencieux :  
+  ```bash
+  SchreinUIBuilder-Setup.exe /S
