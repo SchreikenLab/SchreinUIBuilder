@@ -92,9 +92,7 @@
 | **Réseau** | TCP, UDP, WebSocket |
 | **Série** | RS-232, RS-485, USB-CDC |
 
----
-
-## 📚 Ressources
+--
 
 ### 📘 Libraries Arduino
 
@@ -104,15 +102,13 @@
 - **SchreinEthernetParser** : [Communication Ethernet](https://schreiken.tech/schreinethernetparser/)
 - **SchreinCloudParser** : [Communication Cloud](https://schreiken.tech/schreincloudparser/)
 
-### 📹 Communauté
+---
 
-- **Chaine YouTuber** : [Youtube Channel](https://www.youtube.com/@SchreinUIBuilder/)
+### 🌍 Communauté
+
+- **Tutoriels vidéo** : [Youtube Channel](https://www.youtube.com/@SchreinUIBuilder/)
 - **Page Facebook** : [aceBook Page](https://web.facebook.com/SchreinUIBuilder/)
 - **Forum** : [Forum](https://schreiken.tech/forum/))
-
-- **Tutoriels vidéo :** [Chaîne YouTube](https://youtube.com)  
-- **Communauté :** [community.schreiken.tech](https://community.schreiken.tech)  
-- **Portail client :** [tickets.schreiken.tech](https://tickets.schreiken.tech)
 
 ---
 
