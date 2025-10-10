@@ -26,9 +26,9 @@ Dans un environnement où l’**automatisation, l’IoT et les systèmes embarqu
 - **Étudiants et enseignants** en génie électrique, électronique et mécatronique
 - **Makers et développeurs** cherchant un outil rapide et efficace pour concevoir des interfaces personnalisées
 
-**Schrein UI Builder** est une solution **no-code / low-code** professionnelle permettant de créer des **interfaces de monitoring et de pilotage** pour vos systèmes **IoT industriels** et **objets connectés**.
-
 ---
+## WorkSpace
+
 ![Schéma BLE](images/Part.png)
 
 ---
