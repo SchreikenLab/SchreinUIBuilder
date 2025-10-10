@@ -32,26 +32,6 @@ Dans un environnement où l’**automatisation, l’IoT et les systèmes embarqu
 ![Schéma BLE](images/Part.png)
 
 ---
-## ✨ Fonctionnalités principales
-
-### 🎨 Création d'interfaces
-- Glisser-déposer intuitif — *aucune compétence en programmation requise*  
-- Bibliothèque de composants riches : **boutons, graphiques, jauges, tableaux**
-- Design **responsive** adaptatif pour différents écrans
-- Thèmes personnalisables et **branding d'entreprise**
-
-### 🔌 Connectivité avancée
-- **TCP/UDP (Client & Serveur)**
-- **Ports série (COM)** avec configuration avancée
-- **Cloud Schreiken**
-
-### 🚀 Déploiement professionnel
-- Génération d’**exécutables autonomes**
-- Gestion des **licences intégrée**
-- **Mises à jour automatiques**
-
----
-
 ## 📦 Installation
 
 ### 🧩 Version Standard
@@ -64,13 +44,13 @@ Dans un environnement où l’**automatisation, l’IoT et les systèmes embarqu
 
 ## 🖥️ Configuration système
 
-| **Composant** | **Minimum** | **Recommandé** |
-|----------------|-------------|----------------|
-| **OS** | Windows 10 (64-bit) | Windows 11 / Server 2022 |
-| **Processeur** | Dual-core 2.0 GHz | Quad-core 3.0 GHz |
-| **RAM** | 4 GB | 8 GB+ |
-| **Espace disque** | 500 MB | 1 GB+ |
-| **Réseau** | Connexion standard | Ethernet industriel |
+| **Composant** | **Configuration Minimum** |
+|----------------|-------------|
+| **OS** | Windows 10 (64-bit) |
+| **Processeur** | Dual-core 1.2 GHz |
+| **RAM** | 4 GB |
+| **Espace disque** | 500 MB |
+| **Réseau** | Connexion Bluetooth/WiFi |
 
 **Prérequis :** .NET Framework 4.5.0 ou supérieur
 
@@ -92,17 +72,6 @@ Dans un environnement où l’**automatisation, l’IoT et les systèmes embarqu
 - Interfaces de **contrôle de machines**  
 - Monitoring de **données temps réel**  
 - Systèmes de **télémaintenance**
-
----
-
-## 📊 Protocoles supportés
-
-| **Catégorie** | **Protocoles** |
-|----------------|----------------|
-| **IoT** | HTTP/HTTPS, WebSockets, SSE |
-| **Réseau** | TCP, UDP, WebSocket |
-| **Série** | RS-232 |
-|**Bluetooth**| Bluetooth Classic|
 
 ---
 
@@ -128,5 +97,5 @@ Dans un environnement où l’**automatisation, l’IoT et les systèmes embarqu
 
 **Support Technique :** support@schreiken.tech  
 **WhatsApp :** +237 671 959 237  
-**Site officiel :** [https://schreiken.tech](https://schreiken.tech)
+**Site officiel :** [https://schreiken.tech/schreinuibuilder](https://schreiken.tech/schreinuibuilder)
   
