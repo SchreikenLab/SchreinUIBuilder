@@ -82,16 +82,13 @@ Dans un environnement où l’**automatisation, l’IoT et les systèmes embarqu
 - Systèmes de **télémaintenance**
 
 ---
+
 ## 👉 Monitoring de **données temps réel**
 
 ![Schéma BLE](images/WiFi_Protocole.PNG)
 ![Schéma BLE](images/F3.png)
 
-<br/>
-
 ---
-
-<br/>
 
 ## 📘 Libraries Arduino
 
@@ -101,11 +98,7 @@ Dans un environnement où l’**automatisation, l’IoT et les systèmes embarqu
 - **SchreinEthernetParser** : [Communication Ethernet](https://schreiken.tech/schreinethernetparser/)
 - **SchreinCloudParser** : [Communication Cloud](https://schreiken.tech/schreincloudparser/)
 
-<br/>
-
 ---
-
-<br/>
 
 ## 🚀 Tutoriels
 
@@ -114,7 +107,6 @@ Dans un environnement où l’**automatisation, l’IoT et les systèmes embarqu
 - **Page Facebook** : [FaceBook Page](https://web.facebook.com/SchreinUIBuilder/)
 - **Forum** : [Forum](https://schreiken.tech/forum/)
 
-<br/>
 ---
 
 ## 📞 Contact
