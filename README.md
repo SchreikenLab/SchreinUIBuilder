@@ -29,7 +29,7 @@ Dans un environnement où l’**automatisation, l’IoT et les systèmes embarqu
 ---
 ## 👉 **WorkSpace**
 
-![Schéma BLE](images/Part.png)
+![Schéma BLE](images/B1.jpg)
 
 ---
 ## 📦 Installation
