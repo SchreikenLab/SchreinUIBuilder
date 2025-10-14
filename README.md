@@ -91,6 +91,8 @@ Dans un environnement où l’**automatisation, l’IoT et les systèmes embarqu
 
 ---
 
+<br/>
+
 ## 📘 Libraries Arduino
 
 - **SchreinSerialParser** : [Communication Série](https://schreiken.tech/schreinserialpaser/)
@@ -99,19 +101,20 @@ Dans un environnement où l’**automatisation, l’IoT et les systèmes embarqu
 - **SchreinEthernetParser** : [Communication Ethernet](https://schreiken.tech/schreinethernetparser/)
 - **SchreinCloudParser** : [Communication Cloud](https://schreiken.tech/schreincloudparser/)
 
+<br/>
+
 ---
+
+<br/>
 
 ## 🚀 Tutoriels
 
 - **Getting Started** : [Schrein UI Builder](https://schreiken.tech/category/schreinuibuilder/)
----
-
-## 🌍 Communauté
-
 - **Tutoriels vidéo** : [Youtube Channel](https://www.youtube.com/@SchreinUIBuilder/)
 - **Page Facebook** : [FaceBook Page](https://web.facebook.com/SchreinUIBuilder/)
 - **Forum** : [Forum](https://schreiken.tech/forum/)
 
+<br/>
 ---
 
 ## 📞 Contact
