@@ -92,11 +92,11 @@ Dans un environnement où l’**automatisation, l’IoT et les systèmes embarqu
 
 ## 📘 Libraries Arduino
 
-- **SchreinSerialParser** : [Communication Série](https://schreiken.tech/schreinserialpaser/)
-- **SchreinBluetoothParser** : [Communication Bluetooth](https://schreiken.tech/schreinbluetoothparser/)
-- **SchreinWiFiParser** : [Communication WiFi](https://schreiken.tech/schreinwifiparser//)
-- **SchreinEthernetParser** : [Communication Ethernet](https://schreiken.tech/schreinethernetparser/)
-- **SchreinCloudParser** : [Communication Cloud](https://schreiken.tech/schreincloudparser/)
+- **SchreinSerialParser** : [Communication Série(Multi-plateformes)](https://schreiken.tech/schreinserialpaser/)
+- **SchreinBluetoothParser** : [Communication Bluetooth(HC-05/HC-06)](https://schreiken.tech/schreinbluetoothparser/)
+- **SchreinWiFiParser** : [Communication WiFi(ESP8266/ESP32)](https://schreiken.tech/schreinwifiparser//)
+- **SchreinEthernetParser** : [Communication Ethernet(Ethernet Shield W5100/W5500)](https://schreiken.tech/schreinethernetparser/)
+- **SchreinCloudParser** : [Communication Cloud(ESP8266/ESP32)](https://schreiken.tech/schreincloudparser/)
 
 ---
 
@@ -104,7 +104,7 @@ Dans un environnement où l’**automatisation, l’IoT et les systèmes embarqu
 
 - **Chaine WhatsApp** : [Schreiken Technologies](https://whatsapp.com/channel/0029Va8bztbAe5Vn9KEuND0O)
 - **Groupe FaceBook** : [SchreinUI Community](https://web.facebook.com/groups/598820269809937)
-- **Page Facebook** : [FaceBook Page](https://web.facebook.com/SchreinUIBuilder/)
+- **Page Facebook** : [Schrein UI Builder](https://web.facebook.com/SchreinUIBuilder/)
 - **Groupe WhatsApp** : [Schrein UI Builder](https://chat.whatsapp.com/LqZ1tQbRyYw9QmfWYEZTH7)
   
 ---
