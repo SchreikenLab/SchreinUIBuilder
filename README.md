@@ -66,11 +66,12 @@ Dans un environnement où l’**automatisation, l’IoT et les systèmes embarqu
 4. **Tester** en mode simulation  
 5. **Générer** l’exécutable final
 
----
-
+<br/><br/>
 <div align="center">
   <img src="images/C2.jpg" alt="Description" width="768">
 </div>
+
+---
 
 ## 🔹 Exemples d’applications
 
