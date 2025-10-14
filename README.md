@@ -71,6 +71,7 @@ Dans un environnement où l’**automatisation, l’IoT et les systèmes embarqu
   <img src="images/C2.jpg" alt="Description" width="768">
 </div>
 <br/>
+
 ---
 
 ## 🔹 Exemples d’applications
@@ -85,7 +86,7 @@ Dans un environnement où l’**automatisation, l’IoT et les systèmes embarqu
 
 ![Schéma BLE](images/WiFi_Protocole.PNG)
 ![Schéma BLE](images/F3.png)
-
+<br/>
 ---
 
 ## 📘 Libraries Arduino
