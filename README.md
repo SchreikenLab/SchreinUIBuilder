@@ -41,8 +41,13 @@ Dans un environnement où l’**automatisation, l’IoT et les systèmes embarqu
 4. **Aucune licence d'activation**
 
 ![Schéma BLE](images/multiplateformes_1.png)
+
 ---
-![Schéma BLE](images/C2.jpg)
+
+<div align="center">
+  <img src="images/C2.jpg" alt="Description" width="300">
+</div>
+
 ---
 
 ## ⚙️ Configuration système
