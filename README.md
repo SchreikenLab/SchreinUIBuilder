@@ -44,12 +44,6 @@ Dans un environnement où l’**automatisation, l’IoT et les systèmes embarqu
 
 ---
 
-<div align="center">
-  <img src="images/C2.jpg" alt="Description" width="768">
-</div>
-
----
-
 ## ⚙️ Configuration système
 
 | **Composant** | **Configuration Minimum** |
@@ -73,6 +67,10 @@ Dans un environnement où l’**automatisation, l’IoT et les systèmes embarqu
 5. **Générer** l’exécutable final
 
 ---
+
+<div align="center">
+  <img src="images/C2.jpg" alt="Description" width="768">
+</div>
 
 ## 🔹 Exemples d’applications
 
