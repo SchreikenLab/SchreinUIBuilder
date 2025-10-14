@@ -36,7 +36,7 @@ Dans un environnement où l’**automatisation, l’IoT et les systèmes embarqu
 
 ### 💡 Version Standard
 1. Téléchargez l’installateur depuis : [schreiken.tech/download](https://schreiken.tech/download) multiplateformes_1
-2. Exécutez **`SchreinUIBuilder-Setup.exe`**
+2. Exécutez **`SchreinUIBuilder_Setup_vX.X.X.exe`**
 3. Suivez l’assistant d’installation
 4. **Aucune licence d'activation**
 
