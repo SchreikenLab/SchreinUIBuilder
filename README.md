@@ -92,11 +92,11 @@ Dans un environnement où l’**automatisation, l’IoT et les systèmes embarqu
 
 ## 📘 Libraries Arduino
 
-- **SchreinSerialParser** : [Communication Série(Multi-plateformes)](https://schreiken.tech/schreinserialpaser/)
-- **SchreinBluetoothParser** : [Communication Bluetooth(HC-05/HC-06)](https://schreiken.tech/schreinbluetoothparser/)
-- **SchreinWiFiParser** : [Communication WiFi(ESP8266/ESP32)](https://schreiken.tech/schreinwifiparser//)
-- **SchreinEthernetParser** : [Communication Ethernet(Ethernet Shield W5100/W5500)](https://schreiken.tech/schreinethernetparser/)
-- **SchreinCloudParser** : [Communication Cloud(ESP8266/ESP32)](https://schreiken.tech/schreincloudparser/)
+- **SchreinSerialParser** : [Communication Série (**Multi-plateformes**)](https://schreiken.tech/schreinserialpaser/)
+- **SchreinBluetoothParser** : [Communication Bluetooth (**HC-05/HC-06**)](https://schreiken.tech/schreinbluetoothparser/)
+- **SchreinWiFiParser** : [Communication WiFi (**ESP8266/ESP32**)](https://schreiken.tech/schreinwifiparser//)
+- **SchreinEthernetParser** : [Communication Ethernet (**Ethernet Shield W5100/W5500**)](https://schreiken.tech/schreinethernetparser/)
+- **SchreinCloudParser** : [Communication Cloud (**ESP8266/ESP32**)](https://schreiken.tech/schreincloudparser/)
 
 ---
 
