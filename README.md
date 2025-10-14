@@ -42,6 +42,8 @@ Dans un environnement où l’**automatisation, l’IoT et les systèmes embarqu
 
 ![Schéma BLE](images/multiplateformes_1.png)
 ---
+![Schéma BLE](images/C2.jpg)
+---
 
 ## ⚙️ Configuration système
 
