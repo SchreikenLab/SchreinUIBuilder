@@ -45,7 +45,7 @@ Dans un environnement où l’**automatisation, l’IoT et les systèmes embarqu
 ---
 
 <div align="center">
-  <img src="images/C2.jpg" alt="Description" width="300">
+  <img src="images/C2.jpg" alt="Description" width="768">
 </div>
 
 ---
