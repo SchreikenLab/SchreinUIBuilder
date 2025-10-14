@@ -74,6 +74,11 @@ Dans un environnement où l’**automatisation, l’IoT et les systèmes embarqu
 - Systèmes de **télémaintenance**
 
 ---
+## 👉 **supervision industrielle**
+
+![Schéma BLE](images/GUI_1.jpg)
+
+---
 
 ## 📘 Libraries Arduino
 
