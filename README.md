@@ -78,7 +78,7 @@ Dans un environnement où l’**automatisation, l’IoT et les systèmes embarqu
 ## 👉 Monitoring de **données temps réel**
 
 ![Schéma BLE](images/WiFi_Protocole.PNG)
-![Schéma BLE](images/GUI_1.jpg)
+![Schéma BLE](images/F3.png)
 
 ---
 
