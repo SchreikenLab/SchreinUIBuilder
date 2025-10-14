@@ -100,11 +100,19 @@ Dans un environnement où l’**automatisation, l’IoT et les systèmes embarqu
 
 ---
 
+## 🚀 Communauté
+
+- **Chaine WhatsApp** : [Schreiken Technologies](https://whatsapp.com/channel/0029Va8bztbAe5Vn9KEuND0O)
+- **Groupe FaceBook** : [SchreinUI Community](https://web.facebook.com/groups/598820269809937)
+- **Page Facebook** : [FaceBook Page](https://web.facebook.com/SchreinUIBuilder/)
+- **Groupe WhatsApp** : [Schrein UI Builder](https://chat.whatsapp.com/LqZ1tQbRyYw9QmfWYEZTH7)
+  
+---
+
 ## 🚀 Tutoriels
 
-- **Getting Started** : [Schrein UI Builder](https://schreiken.tech/category/schreinuibuilder/)
-- **Tutoriels vidéo** : [Youtube Channel](https://www.youtube.com/@SchreinUIBuilder/)
-- **Page Facebook** : [FaceBook Page](https://web.facebook.com/SchreinUIBuilder/)
+- **Projets DIY** : [Schrein UI Builder](https://schreiken.tech/category/schreinuibuilder/)
+- **Vidéos** : [Schrein UI Builder](https://www.youtube.com/@SchreinUIBuilder/)
 - **Forum** : [Forum](https://schreiken.tech/forum/)
 
 ---
