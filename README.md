@@ -29,16 +29,18 @@ Dans un environnement où l’**automatisation, l’IoT et les systèmes embarqu
 ---
 ## 👉 **WorkSpace**
 
-![Schéma BLE](images/Part.png)
+![Schéma BLE](images/B1.jpg)
 
 ---
 ## 📦 Installation
 
 ### 💡 Version Standard
-1. Téléchargez l’installateur depuis : [schreiken.tech/download](https://schreiken.tech/download)
-2. Exécutez **`SchreinUIBuilder-Setup.exe`**
+1. Téléchargez l’installateur
+2. Exécutez **`SchreinUIBuilder_Setup_vX.X.X.exe`**
 3. Suivez l’assistant d’installation
 4. **Aucune licence d'activation**
+
+![Schéma BLE](images/multiplateformes_1.png)
 
 ---
 
@@ -64,6 +66,12 @@ Dans un environnement où l’**automatisation, l’IoT et les systèmes embarqu
 4. **Tester** en mode simulation  
 5. **Générer** l’exécutable final
 
+<br/><br/>
+<div align="center">
+  <img src="images/C2.jpg" alt="Description" width="768">
+</div>
+<br/>
+
 ---
 
 ## 🔹 Exemples d’applications
@@ -74,10 +82,13 @@ Dans un environnement où l’**automatisation, l’IoT et les systèmes embarqu
 - Systèmes de **télémaintenance**
 
 ---
+## 👉 Monitoring de **données temps réel**
 
-## 👉 **supervision industrielle**
+![Schéma BLE](images/WiFi_Protocole.PNG)
+![Schéma BLE](images/F3.png)
 
-![Schéma BLE](images/GUI_1.jpg)
+<br/>
+
 ---
 
 ## 📘 Libraries Arduino
@@ -90,12 +101,16 @@ Dans un environnement où l’**automatisation, l’IoT et les systèmes embarqu
 
 ---
 
+## 🚀 Tutoriels
+
+- **Getting Started** : [Schrein UI Builder](https://schreiken.tech/category/schreinuibuilder/)
+---
+
 ## 🌍 Communauté
 
 - **Tutoriels vidéo** : [Youtube Channel](https://www.youtube.com/@SchreinUIBuilder/)
 - **Page Facebook** : [FaceBook Page](https://web.facebook.com/SchreinUIBuilder/)
 - **Forum** : [Forum](https://schreiken.tech/forum/)
-- **Getting Started** : [Schrein UI Builder](https://schreiken.tech/category/schreinuibuilder/)
 
 ---
 
