@@ -4,7 +4,11 @@
 
 ---
 
-![Schéma BLE](images/newproject.png)
+<br/><br/>
+<div align="center">
+  <img src="images/newproject.png" alt="Description" height="768">
+</div>
+<br/>
 
 ## 🎯 Présentation
 
