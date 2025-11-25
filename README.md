@@ -4,6 +4,8 @@
 
 ---
 
+![Schéma BLE](newproject.png)
+
 ## 🎯 Présentation
 
 **Qu’est-ce que Schrein UI Builder ?**
