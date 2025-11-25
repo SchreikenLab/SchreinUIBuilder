@@ -4,7 +4,7 @@
 
 ---
 
-![Schéma BLE](newproject.png)
+![Schéma BLE](images/newproject.png)
 
 ## 🎯 Présentation
 
