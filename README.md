@@ -6,7 +6,7 @@
 
 <br/><br/>
 <div align="center">
-  <img src="images/newproject.png" alt="Description" height="768">
+  <img src="images/newproject.png" alt="Description" height="600">
 </div>
 <br/>
 
